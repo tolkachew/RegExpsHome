@@ -5,7 +5,7 @@ import java.util.*;
 После списка группы вывести статистику (количество студентов, получивших 10 баллов, 9 баллов и т.д.;
 среднюю успеваемость по выбранной группе).
  */
-public class Test {
+public class Test1 {
     public static void main(String[] args) {
         Group grp = new Group("FirstGroup");
         grp.addList(new Student("Дмитрий", 6, "Математика"));
